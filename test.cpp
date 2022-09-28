@@ -7,7 +7,7 @@ int main(){
 
     printf("heloo :\n");
 
-    cout<<"hy"<<endl;
+    cout<<"hy +++"<<endl;
 
     return 0;
 }
